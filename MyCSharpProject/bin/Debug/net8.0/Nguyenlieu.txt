@@ -1,0 +1,8 @@
+Cà phê,15,kg
+Đường,10,kg
+Sữa đặc,10,hộp
+Trà đen,12,kg
+Thơm,5,kg
+Táo,5,kg
+Dâu,5,kg
+Việt quất,3,kg

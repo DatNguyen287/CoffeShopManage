@@ -1,0 +1,14 @@
+Americano,Cafe,35000,10
+Espresso,Cafe,35000,6
+Cappuccino,Cafe,40000,0
+Ép táo,Nước ép,28000,0
+Ép thơm,Nước ép,28000,0
+Ép dâu,Nước ép,30000,0
+Chocolate đá xay,Đá xay,32000,8
+Việt quất đá xay,Đá xay,32000,0
+Tắc đá xay,Đá xay,32000,0
+Tiramisu,Bánh ngọt,40000,8
+Macaron,Bánh ngọt,42000,0
+Trà sữa truyền thống,Trà sữa,35000,0
+Trà sữa Oolong,Trà sữa,35000,0
+Trà sữa matcha,Trà sữa,35000,0
